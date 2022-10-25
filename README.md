@@ -5,6 +5,23 @@
 - [Links](https://www.thecodebuzz.com/mongo-db-naming-conventions-standards-guidelines/#aioseo-mongomongodb-naming-standards-and-guidelines---database-naming)
 
 ---
+## titles.csv
+
+คำนำหน้าชื่อ
+
+#### แหล่งข้อมูล 
+
+- มหาดไทย
+
+- [Links](http://edw-opendata.moi.go.th/dataset/page/5f11b90b2ef969d0f4f4594c10086ebe0229688d38c9d)
+
+##### ตัวอย่าง
+| title_code | title_name_th | title_name_en |
+| :--------------: | :-----------------: | :-----------------: |
+| 003	           | นาย	             | MR.                 |
+| 004	           | นางสาว              | MISS                |
+
+---
 ## blood_groups.csv
 
 หมู่เลือด
@@ -19,7 +36,7 @@
 | 1                | A                   | A                   |
 
 ---
-## hr_blood_groups.csv
+## rh_blood_groups.csv
 
 หมู่เลือด
 
@@ -28,7 +45,7 @@
 - Local Code
 
 ##### ตัวอย่าง
-| hr_blood_group_code | hr_blood_group_name_th | hr_blood_group_name_en |
+| rh_blood_group_code | rh_blood_group_name_th | hr_blood_group_name_en |
 | :-----------------: | :--------------------: | :--------------------: |
 | 1                   | A                      | A                      |
 
