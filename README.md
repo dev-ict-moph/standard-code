@@ -72,7 +72,7 @@
 
 #### แหล่งข้อมูล 
 
-- กระทรวงมหาดไทย
+- มหาดไทย
 
 - [Links](https://data.go.th/en/dataset/view_viability)
 
