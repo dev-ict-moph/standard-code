@@ -60,10 +60,10 @@
 - [Links](https://data.go.th/en/dataset/view_viability)
 
 ##### ตัวอย่าง
-| gender_code | gender_name_th | gender_name_en |
+| viability_code | viability_name_th | viability_name_en |
 | :---------: | :------------: | :------------: |
 | 1           | เสียชีวิต         |                |
-| 1           | มีชีวิต           |                |
+| 2           | มีชีวิต           |                |
 
 ---
 ## diagnosis_types.csv
