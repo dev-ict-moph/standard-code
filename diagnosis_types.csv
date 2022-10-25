@@ -1,4 +1,4 @@
-﻿diagnosis_type_code,diagnosis_type_name,diagnosis_type_name_eng
+﻿diagnosis_types_code,diagnosis_types_name_th,diagnosis_types_name_en
 1,การวินิจฉัยโรคหลัก,PRINCIPLE DX
 2,การวินิจฉัยโรคร่วม,CO-MORBIDITY
 3,การวินิจฉัยโรคแทรก,COMPLICATION
