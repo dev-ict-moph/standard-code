@@ -2,12 +2,9 @@
 
 การตั้งชื่อไฟล์และชื่อฟิลด์ อ้างอิงจาก MongoDB Naming Standards and Guidelines
 
-- MongoDB Collection Naming =
+- MongoDB Collection Naming => <mark>Lower case Example: account_record, credit_history</mark>
 
-<mark>Lower case Example: account_record, credit_history</mark>
-
-- MongoDB Field Names =
-<mark>Pascal case Example: "Name", "City," "Account", "LastName" ,"AccountNumber"</mark>
+- MongoDB Field Names => <mark>Pascal case Example: "Name", "City," "Account", "LastName" ,"AccountNumber"</mark>
 
 - [Links](https://www.thecodebuzz.com/mongo-db-naming-conventions-standards-guidelines/#aioseo-mongomongodb-naming-standards-and-guidelines---database-naming)
 
@@ -16,7 +13,7 @@
 
 คำนำหน้าชื่อ
 
-#### แหล่งข้อมูล 
+#### มาตรฐานข้อมูล 
 
 - มหาดไทย
 
@@ -33,7 +30,7 @@
 
 หมู่เลือด
 
-#### แหล่งข้อมูล 
+#### มาตรฐานข้อมูล 
 
 - Local Code
 
@@ -47,7 +44,7 @@
 
 หมู่เลือด
 
-#### แหล่งข้อมูล 
+#### มาตรฐานข้อมูล 
 
 - Local Code
 
@@ -61,7 +58,7 @@
 
 เพศ
 
-#### แหล่งข้อมูล
+#### มาตรฐานข้อมูล
 
 - มหาดไทย+
 
@@ -77,7 +74,7 @@
 
 สถานะการมีชีวิต
 
-#### แหล่งข้อมูล 
+#### มาตรฐานข้อมูล 
 
 - มหาดไทย
 
@@ -94,7 +91,7 @@
 
 ประเภทการวินิจฉัย
 
-#### แหล่งข้อมูล 
+#### มาตรฐานข้อมูล 
 
 - 43 แฟ้ม
 
@@ -111,7 +108,7 @@
 ## rights.csv
 สิทธิการรักษาพยาบาล
 
-#### แหล่งข้อมูล 
+#### มาตรฐานข้อมูล 
 
 - สปสช.
 
