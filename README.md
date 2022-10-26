@@ -1,6 +1,10 @@
 # Standard Code
 
-การตั้งชื่อไฟล์อ้างอิงจาก MongoDB Naming Standards and Guidelines
+การตั้งชื่อไฟล์และชื่อฟิลด์ อ้างอิงจาก MongoDB Naming Standards and Guidelines
+
+- MongoDB Collection Naming --> <mark>Lower case Example: account_record, credit_history</mark>
+
+- MongoDB Field Names --> <mark>Pascal case Example: "Name", "City," "Account", "LastName" ,"AccountNumber"</mark>
 
 - [Links](https://www.thecodebuzz.com/mongo-db-naming-conventions-standards-guidelines/#aioseo-mongomongodb-naming-standards-and-guidelines---database-naming)
 
