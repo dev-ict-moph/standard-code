@@ -13,14 +13,12 @@
 
 คำนำหน้าชื่อ
 
-#### มาตรฐานข้อมูล 
+#### แหล่งมาตรฐานข้อมูล 
 
-- มหาดไทย
-
-- [Links](http://edw-opendata.moi.go.th/dataset/page/5f11b90b2ef969d0f4f4594c10086ebe0229688d38c9d)
+- [มหาดไทย](http://edw-opendata.moi.go.th/dataset/page/5f11b90b2ef969d0f4f4594c10086ebe0229688d38c9d)
 
 ##### ตัวอย่าง
-| title_code | title_name_th | title_name_en |
+| TitleCode | TitleNameTh | TitleNameEn |
 | :--------------: | :-----------------: | :-----------------: |
 | 003	           | นาย	             | MR.                 |
 | 004	           | นางสาว              | MISS                |
@@ -30,51 +28,51 @@
 
 หมู่เลือด
 
-#### มาตรฐานข้อมูล 
+#### แหล่งมาตรฐานข้อมูล 
 
-- Local Code
+- [43แฟ้ม](https://drive.google.com/file/d/1i9JC_r5LDbXqBZGGf1kyoRqR3E7CSUyW/view)
 
 ##### ตัวอย่าง
-| blood_group_code | blood_group_name_th | blood_group_name_en |
-| :--------------: | :-----------------: | :-----------------: |
-| 1                | A                   | A                   |
+| BloodGroupCode | 	BloodGroupNameTh | BloodGroupNameEn |
+| :------------: | :---------------: | :--------------: |
+| 1              | A                 | A                |
 
 ---
 ## rh_blood_groups.csv
 
 หมู่เลือด
 
-#### มาตรฐานข้อมูล 
+#### แหล่งมาตรฐานข้อมูล 
 
-- Local Code
+- [43แฟ้ม](https://drive.google.com/file/d/11MkFMS-4cVaNTbBXQmjRJ8_VX82JoUyM/view)
 
 ##### ตัวอย่าง
-| rh_blood_group_code | rh_blood_group_name_th | hr_blood_group_name_en |
-| :-----------------: | :--------------------: | :--------------------: |
-| 1                   | A                      | A                      |
+| RhBloodGroupCode | RhBloodGroupNameTh | RhBloodGroupnameEn |
+| :--------------: | :----------------: | :----------------: |
+| 1                | A                  | A                  |
 
 ---
-## gender.csv
+## genders.csv
 
 เพศ
 
-#### มาตรฐานข้อมูล
+#### แหล่งมาตรฐานข้อมูล
 
 - มหาดไทย+
 
 - [Links](https://data.go.th/dataset/view_gender)
 
 ##### ตัวอย่าง
-| gender_code | gender_name_th | gender_name_en |
-| :---------: | :------------: | :------------: |
-| 1           | ชาย            | male           |
+| GenderCode | GenderNameTh | GenderNameEn |
+| :--------: | :----------: | :----------: |
+| 1          | ชาย          | Male         |
 
 ---
 ## viability.csv
 
 สถานะการมีชีวิต
 
-#### มาตรฐานข้อมูล 
+#### แหล่งมาตรฐานข้อมูล 
 
 - มหาดไทย
 
@@ -91,32 +89,32 @@
 
 ประเภทการวินิจฉัย
 
-#### มาตรฐานข้อมูล 
+#### แหล่งมาตรฐานข้อมูล 
 
 - 43 แฟ้ม
 
 - [Links](https://drive.google.com/open?id=1o7QU9sNAacfRPpKsG0S1zgVhLOLLdsTk)
 
 ##### ตัวอย่าง
-| diagnosis_types_code | diagnosis_types_th | diagnosis_types_en |
-| :------------------: | :----------------: | :----------------: |
-| 1	                   | การวินิจฉัยโรคหลัก	    | PRINCIPLE DX       |
-| 2	                   | การวินิจฉัยโรคร่วม      | CO-MORBIDITY       |
+| DiagnosisTypesCode | DiagnosisTypesNameTh | DiagnosisTypesNameEn |
+| :----------------: | :------------------: | :------------------: |
+| 1	                 | การวินิจฉัยโรคหลัก       | PRINCIPLE DX         |
+| 2	                 | การวินิจฉัยโรคร่วม        | CO-MORBIDITY         |
 
 ---
 
 ## rights.csv
 สิทธิการรักษาพยาบาล
 
-#### มาตรฐานข้อมูล 
+#### แหล่งมาตรฐานข้อมูล 
 
 - สปสช.
 
 - [Links](https://www.nhso.go.th/downloads/64)
 
 ##### ตัวอย่าง
-| rights_code |  rights_th |  rights_en  |
-| :---------: | :----------: | :---------: |
+| RightsCode |  RightsNameTh |  RightsNameEn  |
+| :---------: | :----------: | :-----------: |
 | SSS	      | สิทธิประกันสังคม | Social Security Scheme|
 
 ---
