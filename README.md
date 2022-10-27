@@ -58,9 +58,7 @@
 
 #### แหล่งมาตรฐานข้อมูล
 
-- มหาดไทย+
-
-- [Links](https://data.go.th/dataset/view_gender)
+- [มหาดไทย+](https://data.go.th/dataset/view_gender)
 
 ##### ตัวอย่าง
 | GenderCode | GenderNameTh | GenderNameEn |
@@ -68,21 +66,19 @@
 | 1          | ชาย          | Male         |
 
 ---
-## viability.csv
+## marital_status.csv
 
-สถานะการมีชีวิต
+สถานภาพสมรส
 
 #### แหล่งมาตรฐานข้อมูล 
 
-- มหาดไทย
-
-- [Links](https://data.go.th/en/dataset/view_viability)
+- [มหาดไทย](http://edw-opendata.moi.go.th/dataset/page/5efea934a63f8b7dc320999b9a314ce67d9691321b627)
 
 ##### ตัวอย่าง
-| viability_code | viability_name_th | viability_name_en |
+| MaritalStatusCode | MaritalStatusNameTh | MaritalStatusNameEn |
 | :---------: | :------------: | :------------: |
-| 1           | เสียชีวิต         |                |
-| 2           | มีชีวิต           |                |
+| 1           | โสด            | Single         |
+| 2           | สมรส           | Married        |
 
 ---
 ## diagnosis_types.csv
@@ -91,9 +87,7 @@
 
 #### แหล่งมาตรฐานข้อมูล 
 
-- 43 แฟ้ม
-
-- [Links](https://drive.google.com/open?id=1o7QU9sNAacfRPpKsG0S1zgVhLOLLdsTk)
+- [43แฟ้ม](https://drive.google.com/open?id=1o7QU9sNAacfRPpKsG0S1zgVhLOLLdsTk)
 
 ##### ตัวอย่าง
 | DiagnosisTypesCode | DiagnosisTypesNameTh | DiagnosisTypesNameEn |
@@ -102,15 +96,28 @@
 | 2	                 | การวินิจฉัยโรคร่วม        | CO-MORBIDITY         |
 
 ---
+## diagnosis.csv
 
+การวินิจฉัยโรคและอาการ (ICD 10 TM)
+
+#### แหล่งมาตรฐานข้อมูล 
+
+- [43แฟ้ม](https://drive.google.com/file/d/1gBnNQY8Tbw60rlAUY4IslDp31XQjGjms/view?usp=sharing)
+
+
+##### ตัวอย่าง
+| DiagnosisCode | DiagnosisNameTh | DiagnosisNameEn |
+| :----------------: | :------------------: | :------------------: |
+| A000	                 | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ คอเลเร       | Cholera due to Vibrio cholerae 01, biovar cholerae         |
+| A001	                 | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ เอลทอร์        | Cholera due to Vibrio cholerae 01, biovar eltor         |
+
+---
 ## rights.csv
 สิทธิการรักษาพยาบาล
 
 #### แหล่งมาตรฐานข้อมูล 
 
-- สปสช.
-
-- [Links](https://www.nhso.go.th/downloads/64)
+- [สปสช.](https://www.nhso.go.th/downloads/64)
 
 ##### ตัวอย่าง
 | RightsCode |  RightsNameTh |  RightsNameEn  |
