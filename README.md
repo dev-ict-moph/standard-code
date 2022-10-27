@@ -9,9 +9,7 @@
 - [Links](https://www.thecodebuzz.com/mongo-db-naming-conventions-standards-guidelines/#aioseo-mongomongodb-naming-standards-and-guidelines---database-naming)
 
 ---
-## titles_names.csv
-
-คำนำหน้าชื่อ
+## titles_names.csv คำนำหน้าชื่อ
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -24,9 +22,7 @@
 | 004	           | นางสาว              | MISS                |
 
 ---
-## blood_groups.csv
-
-หมู่เลือด
+## blood_groups.csv หมู่เลือด
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -38,9 +34,7 @@
 | 1              | A                 | A                |
 
 ---
-## rh_blood_groups.csv
-
-หมู่เลือด
+## rh_blood_groups.csv หมู่เลือด
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -52,9 +46,7 @@
 | 1                | A                  | A                  |
 
 ---
-## genders.csv
-
-เพศ
+## genders.csv เพศ
 
 #### แหล่งมาตรฐานข้อมูล
 
@@ -66,9 +58,7 @@
 | 1          | ชาย          | Male         |
 
 ---
-## marital_status.csv
-
-สถานภาพสมรส
+## marital_status.csv สถานภาพสมรส
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -81,9 +71,7 @@
 | 2           | สมรส           | Married        |
 
 ---
-## diagnosis_types.csv
-
-ประเภทการวินิจฉัย
+## diagnosis_types.csv ประเภทการวินิจฉัย
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -96,9 +84,7 @@
 | 2	                 | การวินิจฉัยโรคร่วม        | CO-MORBIDITY         |
 
 ---
-## diagnosis.csv
-
-การวินิจฉัยโรคและอาการ (ICD 10 TM)
+## diagnosis.csv การวินิจฉัยโรคและอาการ (ICD 10 TM)
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -112,8 +98,7 @@
 | A001	                 | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ เอลทอร์        | Cholera due to Vibrio cholerae 01, biovar eltor         |
 
 ---
-## rights.csv
-สิทธิการรักษาพยาบาล
+## rights.csv สิทธิการรักษาพยาบาล
 
 #### แหล่งมาตรฐานข้อมูล 
 
