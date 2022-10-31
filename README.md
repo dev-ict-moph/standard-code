@@ -58,6 +58,20 @@
 | 1          | ชาย          | Male         |
 
 ---
+## สัญชาติ -- nationalities.csv 
+
+#### แหล่งมาตรฐานข้อมูล
+
+- [มหาดไทย](http://edw-opendata.moi.go.th/dataset/page/5f11bb7058296d0cd0a5609c9637cd33da403d6d02afa)
+
+##### ตัวอย่าง
+| NationalityCode | NationalityNameTh | NationalityNameEn |
+| :--------: | :----------: | :----------: |
+| 002          | โปรตุเกส          | PORTUGUESE         |
+
+---
+
+
 ## สถานภาพสมรส -- marital_status.csv 
 
 #### แหล่งมาตรฐานข้อมูล 
@@ -69,6 +83,19 @@
 | :---------: | :------------: | :------------: |
 | 1           | โสด            | Single         |
 | 2           | สมรส           | Married        |
+
+---
+## อาชีพ -- occupations.csv 
+
+#### แหล่งมาตรฐานข้อมูล 
+
+- [43แฟ้ม](https://drive.google.com/file/d/1fu9ql1pjVfbKqmIJlM8ZZsCO5RsQfR0f/view)
+
+##### ตัวอย่าง
+| OccupationCode | OccupationNameTh | OccupationNameEn |
+| :---------: | :------------: | :------------: |
+| 0110           | 	ทหารชั้นสัญญาบัตร            |          |
+| 0210           | ทหารชั้นประทวน           |         |
 
 ---
 ## ประเภทการวินิจฉัย -- diagnosis_types.csv 
@@ -110,7 +137,18 @@
 | SSS	      | สิทธิประกันสังคม | Social Security Scheme|
 
 ---
+## สถานพยาบาล -- hosp_names.csv
 
+#### แหล่งมาตรฐานข้อมูล 
+
+- [กยผ.](http://203.157.10.8/hcode_2020/p_export.php)
+
+##### ตัวอย่าง
+| HospCode |  HospName | HospProvinceCode | HospProvinceNmaeTh | HospProvinceNmaeEn | HospZone |
+| :---------: | :----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| 41866	      | คลินิกการแพทย์แผนไทยเตาปูน | 10 | กรุงเทพมหานคร | Bangkok | 13 |
+
+---
 
 
 
