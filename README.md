@@ -166,7 +166,9 @@
 
 #### แหล่งมาตรฐานข้อมูล 
 
-- [43แฟ้ม](https://docs.google.com/spreadsheets/d/1J7HWIyReeHArOmMdPPSok_HkUzNSiTZ-/edit#gid=1692007087)
+- [รหัสมาตรฐานยา43แฟ้ม](https://drive.google.com/file/d/1qMrhZAqnqH-8EMIHQqxuX5zCtY5bJqhP/view)
+
+
 
 ##### ตัวอย่าง
 | DrugCode |  DrugCode24 | DrugNameTh | DrugNameEn | DrugType |
@@ -174,14 +176,19 @@
 | 	       | 213020100012320140681473 |           |  ANALGESIC BALM 30 %W/W OINTMENT | 43folders| 
 
 ---
-## ยา(TMT) -- drugs.csv
+## ยา(TMT) -- tmt_drugs.csv.csv
 
 #### แหล่งมาตรฐานข้อมูล 
 
-- [43แฟ้ม](https://docs.google.com/spreadsheets/d/1J7HWIyReeHArOmMdPPSok_HkUzNSiTZ-/edit#gid=1692007087)
+- [บัญชีข้อมูลยาและรหัสยามาตรฐานไทยสำหรับยาแผนไทย](https://www.this.or.th/service/ttmt/)
+
+- [บัญชีข้อมูลยาและรหัสยามาตรฐานไทย(TMT)](https://www.this.or.th/service/tmt/download/)
+
+
 
 ##### ตัวอย่าง
 | DrugCode |  DrugCode24 | DrugNameTh | DrugNameEn | DrugType |
 | :------: | :---------------: | :-----------: | :-----------: |:-----------: |
-| 	       | 213020100012320140681473 |           |  ANALGESIC BALM 30 %W/W OINTMENT | 43folders| 
+| 1049236 |  |           | 0.0001% DPCP (F 12249) (diphenylcyclopropenone 100 mcg/100 mL) cutaneous solution, 5 mL bottle (TPU) | TMT | 
+| 9000002 | 410000000010000034110662 | กระเจี๊ยบแดง |  | TTMT | 
 
