@@ -162,7 +162,7 @@
 | 001	      | อายุรกรรม (ผู้ป่วยนอก) |              | 
 
 ---
-## แผนกวินิจฉัย -- forty_three_folders_drugs.csv
+## ยา(43แฟ้ม) -- forty_three_folders_drugs.csv
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -170,9 +170,18 @@
 
 ##### ตัวอย่าง
 | DrugCode |  DrugCode24 | DrugNameTh | DrugNameEn | DrugType |
-| :---------: | :---------------: | :-----------: | :-----------: |:-----------: |
-| 101	      | อายุรกรรม (ผู้ป่วยใน) |           |          |          | 
-| 001	      | อายุรกรรม (ผู้ป่วยนอก) |              | 
+| :------: | :---------------: | :-----------: | :-----------: |:-----------: |
+| 	       | 213020100012320140681473 |           |  ANALGESIC BALM 30 %W/W OINTMENT | 43folders| 
 
 ---
+## ยา(TMT) -- drugs.csv
+
+#### แหล่งมาตรฐานข้อมูล 
+
+- [43แฟ้ม](https://docs.google.com/spreadsheets/d/1J7HWIyReeHArOmMdPPSok_HkUzNSiTZ-/edit#gid=1692007087)
+
+##### ตัวอย่าง
+| DrugCode |  DrugCode24 | DrugNameTh | DrugNameEn | DrugType |
+| :------: | :---------------: | :-----------: | :-----------: |:-----------: |
+| 	       | 213020100012320140681473 |           |  ANALGESIC BALM 30 %W/W OINTMENT | 43folders| 
 
