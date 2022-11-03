@@ -31,7 +31,7 @@
 ##### ตัวอย่าง
 | BloodGroupCode | 	BloodGroupNameTh | BloodGroupNameEn |
 | :------------: | :---------------: | :--------------: |
-| 1              | A                 | A                |
+| 1              | เอ                 | A                |
 
 ---
 ## หมู่เลือดRH -- rh_blood_groups.csv 
@@ -43,7 +43,8 @@
 ##### ตัวอย่าง
 | RhBloodGroupCode | RhBloodGroupNameTh | RhBloodGroupnameEn |
 | :--------------: | :----------------: | :----------------: |
-| 1                | A                  | A                  |
+| 1                |                    | Positive           |
+| 2                |                    | Negative           |
 
 ---
 ## เพศ -- genders.csv 
