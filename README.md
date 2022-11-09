@@ -4,12 +4,11 @@
 
 - MongoDB Collection Naming => <mark>Lower case Example: account_record, credit_history</mark>
 
-- MongoDB Field Names => <mark>Pascal case Example: "Name", "City," "Account", "LastName" ,"AccountNumber"</mark>
 
 - [Links](https://www.thecodebuzz.com/mongo-db-naming-conventions-standards-guidelines/#aioseo-mongomongodb-naming-standards-and-guidelines---database-naming)
 
 ---
-## คำนำหน้าชื่อ -- titles_names.csv 
+## คำนำหน้าชื่อ -- title_codes.csv
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -17,9 +16,9 @@
 
 ##### ตัวอย่าง
 | TitleCode | TitleNameTh | TitleNameEn |
-| :--------------: | :-----------------: | :-----------------: |
-| 003	           | นาย	             | MR.                 |
-| 004	           | นางสาว              | MISS                |
+| :-------: | :---------: | :---------: |
+| 003       | นาย	      | MR.         |
+| 004	    | นางสาว      | MISS        |
 
 ---
 ## หมู่เลือด -- blood_groups.csv 
