@@ -149,17 +149,17 @@
 | 41866	      | คลินิกการแพทย์แผนไทยเตาปูน |        | 10 | กรุงเทพมหานคร | Bangkok | 13 |
 
 ---
-## แผนกวินิจฉัย -- main_departments.csv
+## แผนกวินิจฉัย -- clinics.csv
 
 #### แหล่งมาตรฐานข้อมูล 
 
 - [43แฟ้ม](https://docs.google.com/spreadsheets/d/1J7HWIyReeHArOmMdPPSok_HkUzNSiTZ-/edit#gid=1692007087)
 
 ##### ตัวอย่าง
-| MainDepartmentCode |  MainDepartmentNameTh | MainDepartmentNameEn | 
-| :---------: | :---------------: | :-----------: |
-| 101	      | อายุรกรรม (ผู้ป่วยใน) |               | 
-| 001	      | อายุรกรรม (ผู้ป่วยนอก) |              | 
+| clinic_code_opd | clinic_code_ipd | clinic_name_th | clinic_name_en | 
+| :-------------: | :-------------: | :------------: | :------------: |
+| 00000	          | 10000           | หน่วยงานระดับสถานีอนามัยและศูนย์สุขภาพชุมชน |               | 
+| 00100	          | 10100           |อายุรกรรม         |                | 
 
 ---
 ## ยา(43แฟ้ม) -- forty_three_folders_drugs.csv
