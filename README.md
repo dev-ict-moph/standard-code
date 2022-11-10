@@ -111,7 +111,7 @@
 | 2	                   | การวินิจฉัยโรคร่วม           | CO-MORBIDITY            |
 
 ---
-## การวินิจฉัยโรคและอาการ (ICD 10 TM) -- diagnosis.csv 
+## การวินิจฉัยโรคและอาการ (ICD10TM 2016) -- diagnosis.csv 
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -119,10 +119,10 @@
 
 
 ##### ตัวอย่าง
-| DiagnosisCode | DiagnosisNameTh | DiagnosisNameEn |
-| :----------------: | :------------------: | :------------------: |
-| A000	                 | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ คอเลเร       | Cholera due to Vibrio cholerae 01, biovar cholerae         |
-| A001	                 | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ เอลทอร์        | Cholera due to Vibrio cholerae 01, biovar eltor         |
+| ICD10TM | diagnosis_name_th | diagnosis_name_en |
+| :-----: | :------------------: | :------------------: |
+| A000	  | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ คอเลเร | Cholera due to Vibrio cholerae 01, biovar cholerae |
+| A001	  | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ เอลทอร์ | Cholera due to Vibrio cholerae 01, biovar eltor   |
 
 ---
 ## สิทธิการรักษาพยาบาล -- rights.csv  (*รอการ Group ใหม่)
