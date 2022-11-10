@@ -105,10 +105,10 @@
 - [43แฟ้ม](https://drive.google.com/open?id=1o7QU9sNAacfRPpKsG0S1zgVhLOLLdsTk)
 
 ##### ตัวอย่าง
-| DiagnosisTypesCode | DiagnosisTypesNameTh | DiagnosisTypesNameEn |
-| :----------------: | :------------------: | :------------------: |
-| 1	                 | การวินิจฉัยโรคหลัก       | PRINCIPLE DX         |
-| 2	                 | การวินิจฉัยโรคร่วม        | CO-MORBIDITY         |
+| diagnosis_types_code | diagnosis_types_name_th | diagnosis_types_name_en |
+| :------------------: | :---------------------: | :---------------------: |
+| 1	                   | การวินิจฉัยโรคหลัก          | PRINCIPLE DX            |
+| 2	                   | การวินิจฉัยโรคร่วม           | CO-MORBIDITY            |
 
 ---
 ## การวินิจฉัยโรคและอาการ (ICD 10 TM) -- diagnosis.csv 
