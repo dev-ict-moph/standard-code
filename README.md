@@ -92,10 +92,10 @@
 - [43แฟ้ม](https://drive.google.com/file/d/1fu9ql1pjVfbKqmIJlM8ZZsCO5RsQfR0f/view)
 
 ##### ตัวอย่าง
-| OccupationCode | OccupationNameTh | OccupationNameEn |
-| :---------: | :------------: | :------------: |
-| 0110           | 	ทหารชั้นสัญญาบัตร            |          |
-| 0210           | ทหารชั้นประทวน           |         |
+| occupation_code | occupation_name_th | occupation_name_en |
+| :-------------: | :----------------: | :----------------: |
+| 0110            | ทหารชั้นสัญญาบัตร     |                   |
+| 0210            | ทหารชั้นประทวน       |                   |
 
 ---
 ## ประเภทการวินิจฉัย -- diagnosis_types.csv 
