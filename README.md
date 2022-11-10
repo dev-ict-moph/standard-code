@@ -79,7 +79,7 @@
 - [มหาดไทย](http://edw-opendata.moi.go.th/dataset/page/5efea934a63f8b7dc320999b9a314ce67d9691321b627)
 
 ##### ตัวอย่าง
-| MaritalStatusCode | MaritalStatusNameTh | MaritalStatusNameEn |
+| marital_status_code | marital_status_name_th | marital_status_name_en |
 | :---------: | :------------: | :------------: |
 | 1           | โสด            | Single         |
 | 2           | สมรส           | Married        |

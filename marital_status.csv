@@ -1,0 +1,7 @@
+﻿marital_status_code,marital_status_name_th,marital_status_name_en
+1,โสด,Single
+2,สมรส,Married
+3,หม้าย,Widowed
+4,หย่า,Divorced
+5,แยกกันอยู่,Separated
+9,อื่นๆ,Other
