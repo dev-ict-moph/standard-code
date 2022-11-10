@@ -65,7 +65,7 @@
 - [มหาดไทย](http://edw-opendata.moi.go.th/dataset/page/5f11bb7058296d0cd0a5609c9637cd33da403d6d02afa)
 
 ##### ตัวอย่าง
-| NationalityCode | NationalityNameTh | NationalityNameEn |
+| nationality_code | nationality_name_th | nationality_name_en |
 | :--------: | :----------: | :----------: |
 | 002          | โปรตุเกส          | PORTUGUESE         |
 

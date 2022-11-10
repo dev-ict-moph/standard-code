@@ -1,0 +1,273 @@
+﻿nationality_code,nationality_name_th,nationality_name_en
+002,โปรตุเกส,PORTUGUESE
+003,ดัตช์,NETHERLANDS
+004,เยอรมัน,W. GERMANY
+005,ฝรั่งเศส,FRANCE
+006,เดนมาร์ก,DENMARK
+007,สวีเดน,SWEDEN
+008,สวิส,Swiss
+009,อิตาลี,ITALY
+010,นอร์เวย์,NORWAY
+011,ออสเตรีย,AUSTRIA
+012,ไอริช,IRISH
+013,ฟินแลนด์,FINLAND
+014,เบลเยียม,BELGIAN
+015,สเปน,SPAIN
+016,รัสเซีย,U.S.S.R.
+017,โปแลนด์,POLAND
+018,เช็ก,CZECH
+019,ฮังการี,HUNGARY
+020,กรีก,GREECE
+021,ยูโกสลาฟ,YUGOSLAV
+022,ลักเซมเบิร์ก,LUXEMBOURGE
+023,วาติกัน,VATIGAN
+024,มอลตา,MALTESE
+025,ลีซู,
+026,บัลแกเรีย,BULGARIA
+027,โรมาเนีย,ROMANIAN
+028,ไซปรัส,CYPRUS
+029,อเมริกัน,U.S.A.
+030,แคนาดา,CANADIAN
+031,เม็กซิโก,MEXICO
+032,คิวบา,CUBA
+033,อาร์เจนตินา,ARGENTINA
+034,บราซิล,BRAZIL
+035,ชิลี,CHILE
+036,อาข่า,
+037,โคลัมเบีย,COLOMBIA
+038,ลั๊ว,
+039,เปรู,PERU
+040,ปานามา,PANAMA
+041,อุรุกวัย,URUGUAY
+042,เวเนซุเอลา,VENEZUELA
+043,เปอร์โตริโก,PUERTORICO
+044,จีน,CHINA (MAIN LAND)
+045,อินเดีย,INDIA
+046,เวียดนาม,VIETNAMCSE
+047,ญี่ปุ่น,JAPAN
+048,พม่า,of Myanmar
+049,ฟิลิปปิน,PHILIPPINE
+050,มาเลเซีย,MALASIA
+051,อินโดนีเซีย,INDONESIA
+052,ปากีสถาน,PAKISTAN
+053,เกาหลีใต้,OF THE REPUBLIC OF KOREA
+054,สิงคโปร์,SINGAPORE
+055,เนปาล,NAPAL
+056,ลาว,LAO
+057,กัมพูชา,Cambodian
+058,ศรีลังกา,SRI LANKA
+059,ซาอุดีอาระเบีย,SAUDI ARABIAN
+060,อิสราเอล,ISRAEL
+061,เลบานอน,LEBANON
+062,อิหร่าน,IRAN
+063,ตุรกี,TURKEY
+064,บังกลาเทศ,BANGLADESH
+065,ถูกถอนสัญชาติ,
+066,ซีเรีย,SYRIA
+067,อิรัก,IRAQI
+068,คูเวต,KUWAIT
+069,บรูไน,BRUNEI
+070,แอฟริกาใต้,SOUTH AFRICAN
+071,กะเหรี่ยง,
+072,ลาหู่,
+073,เคนยา,KENYA
+074,อียิปต์,EGYPT
+075,เอธิโอเปีย,ETHIOPIA
+076,ไนจีเรีย,NIGERIA
+077,สหรัฐอาหรับเอมิเรตส์,UNITED ARAB EMIRATE
+078,กินี,GUINEA
+079,ออสเตรเลีย,AUSTRALIA
+080,นิวซีแลนด์,NEW ZEALAND
+081,ปาปัวนิวกินี,PAPUA NEW GUINEA
+082,ม้ง,
+083,เมี่ยน,
+084,ชาวเขา,
+086,จีนฮ่อ,-
+087,จีน (อดีต ทจช.),
+088,ผู้พลัดถิ่นสัญชาติพม่า,
+089,ผู้อพยพเชื้อสายจากกัมพูชา,
+090,ลาว (ลาวอพยพ),
+091,เขมรอพยพ,
+092,เวียตนามอพยพ,
+093,รอให้สัญชาติไทย,
+094,ไทย-อิสลาม,
+095,ไทย-จีน,
+096,ไร้สัญชาติ,-
+097,อื่นๆ,
+098,ไม่ได้สัญชาติไทย,
+099,ไทย,THAILAND
+100,อัฟกัน,AFGHAN
+101,บาห์เรน,BAHRAINI
+102,ภูฏาน,BAHRAIN
+103,จอร์แดน,JORDAN
+104,เกาหลีเหนือ,OF THE DEMOCRATIC OF KORE
+105,มัลดีฟ,MALDIVIAN
+106,มองโกเลีย,MONGOLIA
+107,โอมาน,OMAN
+108,กาตาร์,QATAR
+109,เยเมน,YEMEN
+110,เยเมน(ใต้),YEMEN (SOUTH)
+111,หมู่เกาะฟิจิ,FIJI
+112,คิริบาส,KIRIBATI
+113,นาอูรู,NAURU
+114,หมู่เกาะโซโลมอน,SOLOMON ISLANDS
+115,ตองก้า,TONGA
+116,ตูวาลู,TUVALU
+117,วานูอาตู,VANUATU
+118,ซามัว,SAMOAN
+119,แอลเบเนีย,ALBANIA
+120,อันดอร์รา,ANDORRA
+121,เยอรมนีตะวันออก,"GERMANY,EAST"
+122,ไอซ์แลนด์,ICELAND
+123,ลิกเตนสไตน์,LIECHTENSTEIN
+124,โมนาโก,MONACO
+125,ซานมารีโน,SAN MARINO
+126,บริติช,OF THE UNITED KINGDOM
+127,แอลจีเรีย,ALGERIA
+128,แองโกลา,ANGOLAN
+129,เบนิน,BENIN
+130,บอตสวานา,BOTSWANA
+131,บูร์กินาฟาโซ,BURKINA FASO
+132,บุรุนดี,BURUNDI
+133,แคเมอรูน,CAMEROON
+134,เคปเวิร์ด,CAPE VERDE
+135,แอฟริกากลาง,CENTRAL AFRICAN REPUBLIC
+136,ชาด,CHAD
+137,คอโมโรส,COMOROS
+138,คองโก,CONGO
+139,ไอโวเรี่ยน,IVOIRIENNE
+140,จิบูตี,DJIBOUTI
+141,อิเควทอเรียลกินี,EQUATORIAL GUINEA
+142,กาบอง,GABON
+143,แกมเบีย,GAMBIA
+144,กานา,GHANA
+145,กินีบีสเซา,GUINEA BISSAU
+146,เลโซโท,LESOTHO
+147,ไลบีเรีย,LIBERIA
+148,ลิเบีย,Libya
+149,มาลากาซี,MALAGASY
+150,มาลาวี,MALAWIAN
+151,มาลี,MALI
+152,มอริเตเนีย,MAURITANTA
+153,มอริเชียส,MAURITIUS
+154,โมร็อกโก,MOROCCAN
+155,โมซัมบิก,MOZAMBIQUE
+156,ไนเจอร์,NIGER
+157,รวันดา,RWANDA
+158,เซาโตเมและปรินซิเป,SAO TOME AND PRINCIPE
+159,เซเนกัล,SENEGAL
+160,เซเชลส์,SEYCHELLES
+161,เซียร์ราลีโอน,SIERRA LEONE
+162,โซมาลี,SOMALI
+163,ซูดาน,SUDAN
+164,สวาซี,SWAZI
+165,แทนซาเนีย,TANZANIA
+166,โตโก,TOGO
+167,ตูนิเซีย,TUNISIAN
+168,ยูกันดา,UGANDA
+169,ซาอีร์,ZAIRE
+170,แซมเบีย,ZAMBIA
+171,ซิมบับเว,ZIMBABWE
+172,แอนติกาและบาร์บูดา,OF ANTIGUA AND BARBUDA
+173,บาฮามาส,BAHAMAS
+174,บาร์เบโดส,BARBADOS
+175,เบลิซ,BELIZE
+176,คอสตาริกา,COSTA RICA
+177,โดมินิกา,DOMINICA
+178,โดมินิกัน,DOMINICAN
+179,เอลซัลวาดอร์,"EL,SALVADOR"
+180,เกรเนดา,GRENADA
+181,กัวเตมาลา,GUATEMALA
+182,เฮติ,HAITI
+183,ฮอนดูรัส,HONDURAS
+184,จาเมกา,JAMAICA
+185,นิการากัว,NICARAGUA
+186,เซนต์คิตส์และเนวิส,OF SAINT KITTS AND NEVIS
+187,เซนต์ลูเซีย,SAINT LUCIA
+188,เซนต์วินเซนต์และเกรนาดีนส์,OF SAINT VINCENT AND THE
+189,ตรินิแดดและโตเบโก,TRINDAD AND TOBAGO
+190,โบลีเวีย,BOLIVIA
+191,เอกวาดอร์,ECUADOR
+192,กายอานา,GUYANA
+193,ปารากวัย,PARAGUAY
+194,ซูรินาเม,SURINAME
+195,อาหรับ,ARAB
+196,คะฉิ่น,
+197,ว้า,
+198,ไทยใหญ่,
+199,ไทยลื้อ,THAILUE
+200,ขมุ,KHAMU
+201,ตองสู,TONGSU
+202,เงี้ยว,NGIEW
+203,ละว้า,LAWA
+204,แม้ว,
+205,ปะหร่อง,PALONG
+206,ถิ่น,
+207,ปะโอ,PAO
+208,มอญ,
+209,มลาบรี,
+210,เฮาะ,NOT
+211,สก๊อตแลนด์,NOT
+212,จีน (จีนฮ่ออิสระ),
+213,จีนอพยพ,NOT
+214,จีน (จีนฮ่ออพยพ),
+215,ไต้หวัน,TAIWAN
+216,ยูเครน,UKRAINE
+217,อาณานิคมอังกฤษ,BRITISH COLONY
+218,ดูไบ,DUBAI
+219,จีน(ฮ่องกง),HONGKONG
+220,จีน(ไต้หวัน),CHINA (TAIWAN)
+221,โครเอเชีย,CROATIA
+222,บริทิธ,BRITISH
+223,คาซัค,KAZAKH
+224,อาร์เมเนีย,ARMENIAN
+225,อาเซอร์ไบจาน,AZERBAIJANI
+226,จอร์เจีย,GEORGIAN
+227,คีร์กีซ,KYRGYZ
+228,ทาจิก,TAJIK
+229,อุซเบก,UZBEK
+230,หมู่เกาะมาร์แชลล์,OF THE MARSHALL ISLANDS
+231,ไมโครนีเซีย,OF MICRONESIA
+232,ปาเลา,OF PALAU
+233,เบลารุส,BELARUSIAN
+234,บอสเนียและเฮอร์เซโกวีนา,REPBLIC OF BOSNIA HERAEGO
+235,เติร์กเมน,TURKMEN
+236,เอสโตเนีย,ESTONIAN
+237,ลัตเวีย,LATVIAN
+238,ลิทัวเนีย,LITHUANIAN
+239,มาซิโดเนีย,(OF) MACEDONIA
+240,มอลโดวา,MOLDOVAN
+241,สโลวัก,SLOVAK
+242,สโลวีน,SLOVENE
+243,เอริเทรีย,ERITREAN
+244,นามิเบีย,NAMIBIAN
+245,โบลิเวีย,BOLIVIAN
+246,หมู่เกาะคุก,COOK ISLANDS
+247,เนปาล (เนปาลอพยพ),
+248,มอญ(ผู้พลัดถิ่นสัญชาติพม่า),
+249,ไทยใหญ่(ผู้พลัดถิ่นสัญชาติพม่า,
+250,เวียดนาม(ญวนอพยพ),
+251,มาเลเชีย(อดีต จคม.),
+252,จีน(อดีต จคม.),
+253,สิงคโปร์(อดีต จคม.),
+254,กะเหรี่ยง(ผู้หลบหนีเข้าเมือง),
+255,มอญ(ผู้หลบหนีเข้าเมือง),
+256,ไทยใหญ่(ผู้หลบหนีเข้าเมือง),
+257,กัมพูชา(ผู้หลบหนีเข้าเมือง),
+258,มอญ(ชุมชนบนพื้นที่สูง),
+259,กะเหรี่ยง(ชุมชนบนพื้นที่สูง),
+260,ปาเลสไตน์,PALESTINE
+261,ติมอร์ตะวันออก,EAST TIMOR
+262,สละสัญชาติไทย,THE RENUNCIATION OF THAI NATIO
+263,เซอร์เบีย แอนด์ มอนเตเนโกร,SERBIA AND MONTENEGRO
+264,กัมพูชา(แรงงาน),Combodian
+265,พม่า(แรงงาน),of Myanmar
+266,ลาว(แรงงาน),LAO
+267,เซอร์เบียน,SERBIAN
+268,มอนเตเนกริน,MONTENEGRIN
+270,กาบูเวร์ดี,
+271,คอซอวอ,
+272,เซาท์ซูดาน,
+601,เบลเยี่ยม,bel
+989,บุคคลที่ไม่มีสถานะทางทะเบียน,-
+999,ไม่ระบุ,
