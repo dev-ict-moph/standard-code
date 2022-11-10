@@ -162,16 +162,17 @@
 | 00100	          | 10100           |อายุรกรรม         |                | 
 
 ---
-## ยา(43แฟ้ม) -- forty_three_folders_drugs.csv
+## ยา(43แฟ้ม) -- drugs.csv
 
 #### แหล่งมาตรฐานข้อมูล 
 
 - [รหัสมาตรฐานยา43แฟ้ม](https://drive.google.com/file/d/1qMrhZAqnqH-8EMIHQqxuX5zCtY5bJqhP/view)
 
+- [บัญชีข้อมูลยาและรหัสยามาตรฐานไทยสำหรับยาแผนไทย](https://www.this.or.th/service/ttmt/)
+
+- [บัญชีข้อมูลยาและรหัสยามาตรฐานไทย(TMT)](https://www.this.or.th/service/tmt/download/)
+
 - ##### *รหัสยา24หลักไม่ซ้ำกับข้อมูลรหัสยามาตรฐานไทย(TMT)
-
-- ##### *รอยืนยันรวมไฟล์ยา(43แฟ้ม)และยา(TMT)
-
 
 ##### ตัวอย่าง
 | drug_code |  drug_code_24 | drug_name_th | drug_name_en | drug_code_type |
@@ -179,23 +180,4 @@
 | 	       | 213020100012320140681473 |           |  ANALGESIC BALM 30 %W/W OINTMENT | 43folders | 
 | 9005263  | 410000000320000040110713 | บัวบก      |                                  | TTMT      |
 
----
-## ยา(TMT) -- tmt_drugs.csv.csv
-
-#### แหล่งมาตรฐานข้อมูล 
-
-- [บัญชีข้อมูลยาและรหัสยามาตรฐานไทยสำหรับยาแผนไทย](https://www.this.or.th/service/ttmt/)
-
-- [บัญชีข้อมูลยาและรหัสยามาตรฐานไทย(TMT)](https://www.this.or.th/service/tmt/download/)
-
-- ##### *รหัสยา24หลักไม่ซ้ำกับข้อมูลยา(34แฟ้ม)
-
-- ##### *รอยืนยันรวมไฟล์ยา(43แฟ้ม)และยา(TMT)
-
-
-##### ตัวอย่าง
-| DrugCode |  DrugCode24 | DrugNameTh | DrugNameEn | DrugType |
-| :------: | :---------------: | :-----------: | :-----------: |:-----------: |
-| 1049236 |  |           | 0.0001% DPCP (F 12249) (diphenylcyclopropenone 100 mcg/100 mL) cutaneous solution, 5 mL bottle (TPU) | TMT | 
-| 9000002 | 410000000010000034110662 | กระเจี๊ยบแดง |  | TTMT | 
 
