@@ -53,7 +53,7 @@
 - [มหาดไทย+](https://data.go.th/dataset/view_gender)
 
 ##### ตัวอย่าง
-| GenderCode | GenderNameTh | GenderNameEn |
+| gender_code | gender_name_th | gender_name_en |
 | :--------: | :----------: | :----------: |
 | 1          | ชาย          | Male         |
 
