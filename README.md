@@ -144,9 +144,9 @@
 - [กยผ.](http://203.157.10.8/hcode_2020/p_export.php)
 
 ##### ตัวอย่าง
-| HospCode |  HospNameTh |  HospNameEn | HospProvinceCode | HospProvinceNameTh | HospProvinceNameEn | HospZone |
+| hosp_code |  hosp_name_th |  hosp_name_en | hosp_province_code | hosp_province_name_th | hosp_province_name_en | hosp_zone |
 | :---------: | :----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| 41866	      | | คลินิกการแพทย์แผนไทยเตาปูน | 10 | กรุงเทพมหานคร | Bangkok | 13 |
+| 41866	      | คลินิกการแพทย์แผนไทยเตาปูน |        | 10 | กรุงเทพมหานคร | Bangkok | 13 |
 
 ---
 ## แผนกวินิจฉัย -- main_departments.csv
