@@ -40,10 +40,10 @@
 - [43แฟ้ม](https://drive.google.com/file/d/11MkFMS-4cVaNTbBXQmjRJ8_VX82JoUyM/view)
 
 ##### ตัวอย่าง
-| RhBloodGroupCode | RhBloodGroupNameTh | RhBloodGroupnameEn |
-| :--------------: | :----------------: | :----------------: |
-| 1                |                    | Positive           |
-| 2                |                    | Negative           |
+| rh_blood_group_code | blood_group_name_th | blood_group_name_en |
+| :-----------------: | :-----------------: | :-----------------: |
+| 1                   |                     | Positive            |
+| 2                   |                     | Negative            |
 
 ---
 ## เพศ -- genders.csv 
