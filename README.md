@@ -28,9 +28,9 @@
 - [43แฟ้ม](https://drive.google.com/file/d/1i9JC_r5LDbXqBZGGf1kyoRqR3E7CSUyW/view)
 
 ##### ตัวอย่าง
-| BloodGroupCode | 	BloodGroupNameTh | BloodGroupNameEn |
-| :------------: | :---------------: | :--------------: |
-| 1              | เอ                 | A                |
+| blood_group_code | blood_group_name_th | blood_group_name_en |
+| :--------------: | :-----------------: | :-----------------: |
+| 1                | เอ                  | A                   |
 
 ---
 ## หมู่เลือดRH -- rh_blood_groups.csv 
