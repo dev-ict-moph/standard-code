@@ -174,9 +174,10 @@
 
 
 ##### ตัวอย่าง
-| DrugCode |  DrugCode24 | DrugNameTh | DrugNameEn | DrugType |
-| :------: | :---------------: | :-----------: | :-----------: |:-----------: |
-| 	       | 213020100012320140681473 |           |  ANALGESIC BALM 30 %W/W OINTMENT | 43folders| 
+| drug_code |  drug_code_24 | drug_name_th | drug_name_en | drug_code_type |
+| :------: | :------------: | :-----------: | :-----------: |:-----------: |
+| 	       | 213020100012320140681473 |           |  ANALGESIC BALM 30 %W/W OINTMENT | 43folders | 
+| 9005263  | 410000000320000040110713 | บัวบก      |                                  | TTMT      |
 
 ---
 ## ยา(TMT) -- tmt_drugs.csv.csv
