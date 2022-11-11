@@ -93,9 +93,9 @@
 
 ##### ตัวอย่าง
 | OccupationCode | OccupationNameTh | OccupationNameEn |
-| :---------: | :------------: | :------------: |
-| 0110           | 	ทหารชั้นสัญญาบัตร            |          |
-| 0210           | ทหารชั้นประทวน           |         |
+| :------------: | :--------------: | :--------------: |
+| 0110           | ทหารชั้นสัญญาบัตร  |                   |
+| 0210           | ทหารชั้นประทวน    |                   |
 
 ---
 ## ประเภทการวินิจฉัย -- diagnosis_types.csv 
@@ -121,8 +121,8 @@
 ##### ตัวอย่าง
 | DiagnosisCode | DiagnosisNameTh | DiagnosisNameEn |
 | :----------------: | :------------------: | :------------------: |
-| A000	                 | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ คอเลเร       | Cholera due to Vibrio cholerae 01, biovar cholerae         |
-| A001	                 | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ เอลทอร์        | Cholera due to Vibrio cholerae 01, biovar eltor         |
+| A000	             | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ คอเลเร | Cholera due to Vibrio cholerae 01, biovar cholerae         |
+| A001	             | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ เอลทอร์ | Cholera due to Vibrio cholerae 01, biovar eltor         |
 
 ---
 ## สิทธิการรักษาพยาบาล -- rights.csv  (*รอการ Group ใหม่)
@@ -156,10 +156,10 @@
 - [43แฟ้ม](https://docs.google.com/spreadsheets/d/1J7HWIyReeHArOmMdPPSok_HkUzNSiTZ-/edit#gid=1692007087)
 
 ##### ตัวอย่าง
-| MainDepartmentCode |  MainDepartmentNameTh | MainDepartmentNameEn | 
-| :---------: | :---------------: | :-----------: |
-| 101	      | อายุรกรรม (ผู้ป่วยใน) |               | 
-| 001	      | อายุรกรรม (ผู้ป่วยนอก) |              | 
+| MainDepartmentOPDCode | MainDepartmentIPDCode |  MainDepartmentNameTh | MainDepartmentNameEn | 
+| :-------------------: | :-------------------: | :-------------------: | :------------------: |
+| 00100	                | 10100                 |  อายุรกรรม              |                      |
+| 00200	                | 10200                 |  ศัลยกรรม              |                      |
 
 ---
 ## ยา(43แฟ้ม) -- forty_three_folders_drugs.csv
