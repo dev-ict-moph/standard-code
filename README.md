@@ -172,9 +172,8 @@
 - ##### *รหัสยา24หลักไม่ซ้ำกับข้อมูลรหัสยามาตรฐานไทย(TMT)
 
 ##### ตัวอย่าง
-| drug_code |  drug_code_24 | drug_name_th | drug_name_en | drug_code_type |
-| :------: | :------------: | :-----------: | :-----------: |:-----------: |
-| 	       | 213020100012320140681473 |           |  ANALGESIC BALM 30 %W/W OINTMENT | 43folders | 
-| 9005263  | 410000000320000040110713 | บัวบก      |                                  | TTMT      |
+| drug_code |  drug_24_code | active_ingredient | strength | dosage_form | content_value | content_unit | dispensing_unit | trade_name | manufacturer | fsn | drug_type_code |
+| :------: | :------------: | :-----------: | :-----------: | :-----------: |:-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |:-----------: |
+
 
 
