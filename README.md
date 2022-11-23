@@ -174,6 +174,8 @@
 ##### ตัวอย่าง
 | drug_code |  drug_24_code | active_ingredient | strength | dosage_form | content_value | content_unit | dispensing_unit | trade_name | manufacturer | fsn | drug_type_code |
 | :------: | :------------: | :-----------: | :-----------: | :-----------: |:-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |:-----------: |
-
+|9099264|420000000110000021510662|กษัยเส้น||ยาลูกกลอน|||||โรงพยาบาลชลบุรี|(โรงพยาบาลชลบุรี)(กษัยเส้น)()ยาลูกกลอน|TTMT|
+|105474||pantoprazole|40 mg|gastro-resistant tablet|||tablet|CONTROLOC|ALTANA PHARMA, GERMANY|CONTROLOC (ALTANA PHARMA, GERMANY) (pantoprazole 40 mg) gastro-resistant tablet, 1 tablet (TPU)|TMT|
+||100188000004293220181296|TETRACYCLINE 250 MG CAPSULE||||||ACNICIN T1 CAPSULE|บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด|ACNICIN T1 CAPSULE(บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด)(TETRACYCLINE 250 MG CAPSULE)()|43folders|
 
 
