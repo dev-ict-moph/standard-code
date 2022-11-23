@@ -162,7 +162,7 @@
 | 00200	                | 10200                 |  ศัลยกรรม              |                      |
 
 ---
-## ยา(43แฟ้ม) -- forty_three_folders_drugs.csv
+## ยา(43แฟ้ม) -- drugs_43_folders.csv
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -170,9 +170,9 @@
 
 
 ##### ตัวอย่าง
-| DrugCode | Drug24Code | ActiveIngredient | Strength | DosageForm	| ContentValue | ContentUnit| DispensingUnit | TradeName | Manufacturer | FSN |	DrugTypeCode |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| | 100188000004293220181296 |	TETRACYCLINE 250 MG CAPSULE	| | | | | | ACNICIN T1 CAPSULE | บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด | ACNICIN T1 CAPSULE(บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด)(TETRACYCLINE 250 MG CAPSULE)() |	43folders |
+| DrugCode | Drug24Code | ActiveIngredient | TradeName | Manufacturer | FSN |	DrugTypeCode |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| | 100188000004293220181296 |	TETRACYCLINE 250 MG CAPSULE	| ACNICIN T1 CAPSULE | บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด | ACNICIN T1 CAPSULE(บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด)(TETRACYCLINE 250 MG CAPSULE)() |	43folders |
 
 ---
 ## ยา(TMT) -- tmt_drugs.csv.csv
