@@ -168,15 +168,11 @@
 
 - [รหัสมาตรฐานยา43แฟ้ม](https://drive.google.com/file/d/1qMrhZAqnqH-8EMIHQqxuX5zCtY5bJqhP/view)
 
-- ##### *รหัสยา24หลักไม่ซ้ำกับข้อมูลรหัสยามาตรฐานไทย(TMT)
-
-- ##### *รอยืนยันรวมไฟล์ยา(43แฟ้ม)และยา(TMT)
-
 
 ##### ตัวอย่าง
-| DrugCode |  DrugCode24 | DrugNameTh | DrugNameEn | DrugType |
-| :------: | :---------------: | :-----------: | :-----------: |:-----------: |
-| 	       | 213020100012320140681473 |           |  ANALGESIC BALM 30 %W/W OINTMENT | 43folders| 
+| DrugCode | Drug24Code | ActiveIngredient | Strength | DosageForm	| ContentValue | ContentUnit| DispensingUnit | TradeName | Manufacturer | FSN |	DrugTypeCode |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| | 100188000004293220181296 |	TETRACYCLINE 250 MG CAPSULE	| | | | | | ACNICIN T1 CAPSULE | บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด | ACNICIN T1 CAPSULE(บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด)(TETRACYCLINE 250 MG CAPSULE)() |	43folders |
 
 ---
 ## ยา(TMT) -- tmt_drugs.csv.csv
@@ -187,14 +183,11 @@
 
 - [บัญชีข้อมูลยาและรหัสยามาตรฐานไทย(TMT)](https://www.this.or.th/service/tmt/download/)
 
-- ##### *รหัสยา24หลักไม่ซ้ำกับข้อมูลยา(34แฟ้ม)
-
-- ##### *รอยืนยันรวมไฟล์ยา(43แฟ้ม)และยา(TMT)
-
 
 ##### ตัวอย่าง
-| DrugCode |  DrugCode24 | DrugNameTh | DrugNameEn | DrugType |
-| :------: | :---------------: | :-----------: | :-----------: |:-----------: |
-| 1049236 |  |           | 0.0001% DPCP (F 12249) (diphenylcyclopropenone 100 mcg/100 mL) cutaneous solution, 5 mL bottle (TPU) | TMT | 
-| 9000002 | 410000000010000034110662 | กระเจี๊ยบแดง |  | TTMT | 
+| DrugCode | Drug24Code | ActiveIngredient | Strength | DosageForm	| ContentValue | ContentUnit| DispensingUnit | TradeName | Manufacturer | FSN |	DrugTypeCode |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| 9099264 | 420000000110000021510662 | กษัยเส้น |	|ยาลูกกลอน | |	| |					โรงพยาบาลชลบุรี |(โรงพยาบาลชลบุรี)(กษัยเส้น)()ยาลูกกลอน | TTMT |
+| 105474 |                           | pantoprazole | 40 mg | gastro-resistant tablet |	 |  | tablet | CONTROLOC | ALTANA PHARMA, GERMANY |	CONTROLOC (ALTANA PHARMA, GERMANY) (pantoprazole 40 mg) gastro-resistant tablet, 1 tablet (TPU) | TMT |
+
 
