@@ -125,16 +125,18 @@
 | A001	             | อหิวาตกโรคจากเชื้อ วิบริโอ คอเลเรโอ 1 ไบอาวาร์ เอลทอร์ | Cholera due to Vibrio cholerae 01, biovar eltor         |
 
 ---
-## สิทธิการรักษาพยาบาล -- rights.csv  (*รอการ Group ใหม่)
+## สิทธิการรักษาพยาบาล -- rights.csv  
 
 #### แหล่งมาตรฐานข้อมูล 
 
 - [สปสช.](https://www.nhso.go.th/downloads/64)
+- [43แฟ้ม](https://drive.google.com/file/d/13HROCTleOTD6uq_Tk4AGG6eiqHzOAnVZ/view)
 
 ##### ตัวอย่าง
 | RightsCode |  RightsNameTh |  RightsNameEn  |
 | :---------: | :----------: | :-----------: |
 | SSS	      | สิทธิประกันสังคม | Social Security Scheme|
+| UCS         | สิทธิหลักประกันสุขภาพ | Universal Coverage Scheme |
 
 ---
 ## สถานพยาบาล -- hosp_names.csv
@@ -166,7 +168,7 @@
 
 #### แหล่งมาตรฐานข้อมูล 
 
-- [รหัสมาตรฐานยา43แฟ้ม](https://drive.google.com/file/d/1qMrhZAqnqH-8EMIHQqxuX5zCtY5bJqhP/view)
+- [43แฟ้ม](https://drive.google.com/file/d/1qMrhZAqnqH-8EMIHQqxuX5zCtY5bJqhP/view)
 
 
 ##### ตัวอย่าง
