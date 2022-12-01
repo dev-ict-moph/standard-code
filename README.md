@@ -129,9 +129,13 @@
 
 #### แหล่งมาตรฐานข้อมูล 
 
+- [สปสช.](https://www.nhso.go.th/downloads/64)
+- [43แฟ้ม](https://drive.google.com/file/d/13HROCTleOTD6uq_Tk4AGG6eiqHzOAnVZ/view)
 
 ##### ตัวอย่าง
-
+| rightsCode | rights_name_th |	rights_name_en |
+| SSS | สิทธิประกันสังคม | Social Security Scheme |
+| UCS |สิทธิหลักประกันสุขภาพ | Universal Coverage Scheme |
 
 ---
 ## สถานพยาบาล -- hosp_names.csv
