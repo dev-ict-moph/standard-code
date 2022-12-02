@@ -1,6 +1,5 @@
 # Standard Code
-
-<mark>การตั้งชื่อไฟล์และชื่อฟิลด์ อ้างอิงจาก MongoDB Naming Standards and Guidelines</mark>
+การตั้งชื่อไฟล์และชื่อฟิลด์ อ้างอิงจาก MongoDB Naming Standards and Guidelines
 
 - MongoDB Collection Naming => Lower case Example: account_record, credit_history
 
@@ -27,8 +26,7 @@
 
 - [43แฟ้ม](https://drive.google.com/file/d/1i9JC_r5LDbXqBZGGf1kyoRqR3E7CSUyW/view)
 
-
-== BloodGroupNameEn ==
+:triangular_flag_on_post: BloodGroupNameEn :triangular_flag_on_post:
 
 ##### ตัวอย่าง
 | BloodGroupCode | 	BloodGroupNameTh | BloodGroupNameEn |
