@@ -26,7 +26,7 @@
 
 - [43แฟ้ม](https://drive.google.com/file/d/1i9JC_r5LDbXqBZGGf1kyoRqR3E7CSUyW/view)
 
-:triangular_flag_on_post: => ฟิล์ดข้อมูลที่ใช้แสดงผลเป็นหลัก
+###### ฟิล์ดข้อมูลที่ใช้แสดงผลเป็นหลัก :triangular_flag_on_post: 
 
 ##### ตัวอย่าง
 | BloodGroupCode | 	BloodGroupNameTh | BloodGroupNameEn :triangular_flag_on_post: |
