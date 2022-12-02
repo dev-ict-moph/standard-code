@@ -26,7 +26,7 @@
 
 - [43แฟ้ม](https://drive.google.com/file/d/1i9JC_r5LDbXqBZGGf1kyoRqR3E7CSUyW/view)
 
-:triangular_flag_on_post: BloodGroupNameEn :triangular_flag_on_post:
+:triangular_flag_on_post: = ฟิล์ดที่เลือกใช้ 
 
 ##### ตัวอย่าง
 | BloodGroupCode | 	BloodGroupNameTh | BloodGroupNameEn :triangular_flag_on_post: |
