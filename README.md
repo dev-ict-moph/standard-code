@@ -29,7 +29,7 @@
 :triangular_flag_on_post: BloodGroupNameEn :triangular_flag_on_post:
 
 ##### ตัวอย่าง
-| BloodGroupCode | 	BloodGroupNameTh | BloodGroupNameEn |
+| BloodGroupCode | 	BloodGroupNameTh | BloodGroupNameEn :triangular_flag_on_post: |
 | :------------: | :---------------: | :--------------: |
 | 1              | เอ                 | A                |
 
