@@ -178,7 +178,7 @@
 | | 100188000004293220181296 |	TETRACYCLINE 250 MG CAPSULE	| ACNICIN T1 CAPSULE | บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด | ACNICIN T1 CAPSULE(บริษัท อาร์ พี ซี อินเตอร์เนชั่นแนล จำกัด)(TETRACYCLINE 250 MG CAPSULE)() |	43folders |
 
 ---
-## ยา(TMT) -- tmt_drugs.csv.csv
+## ยา(TMT) -- tmt_drugs.csv
 
 #### แหล่งมาตรฐานข้อมูล 
 
@@ -192,5 +192,20 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | 9099264 | 420000000110000021510662 | กษัยเส้น |	|ยาลูกกลอน | |	| |					โรงพยาบาลชลบุรี |(โรงพยาบาลชลบุรี)(กษัยเส้น)()ยาลูกกลอน | TTMT |
 | 105474 |                           | pantoprazole | 40 mg | gastro-resistant tablet |	 |  | tablet | CONTROLOC | ALTANA PHARMA, GERMANY |	CONTROLOC (ALTANA PHARMA, GERMANY) (pantoprazole 40 mg) gastro-resistant tablet, 1 tablet (TPU) | TMT |
+
+---
+
+## หน่วยนับของยา -- drug_units.csv
+
+#### แหล่งมาตรฐานข้อมูล 
+
+- [รหัสหน่วยนับของยา](https://drive.google.com/file/d/1eSBk3MohURcaEKqmf5uBAVAEsC4wKmUP/view)
+
+##### ตัวอย่าง
+| DrugUnitCode | DrugUnitNameTh | DrugUnitNameEn | 
+|:----:|:----:|:----:|
+| 001 |	กระป๋อง |  |
+| 002 | กระปุก  |  |
+|003  | กล่อง   |  |
 
 
